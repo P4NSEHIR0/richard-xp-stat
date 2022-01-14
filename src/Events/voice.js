@@ -59,7 +59,7 @@ module.exports = async () => {
     if(achiPoint < achi.voice_achis.achi12.point) achidb.set(member.id+".voice.achi12", false);
     });
    });
-   }, 1000);
+   }, 60000);
  }
  
  module.exports.config = {
