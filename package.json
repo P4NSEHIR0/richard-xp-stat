@@ -1,0 +1,16 @@
+{
+  "name": "zort",
+  "main": "richard.js",
+  "scripts": {
+    "start": "node richard.js"
+  },
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "discord-buttons": "^4.0.0",
+    "discord.js": "^12.5.3",
+    "fresh.db": "^1.0.7",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "util": "^0.12.3"
+  }
+}
